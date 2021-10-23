@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(87, 238, 188);
+    text-align: center;
+}
+
+.topcontainer {
+    margin: 100px;
+    height: 200px;
+}
+
+.middlecontainer {}
+
+.bottomcontainer {
+    padding: 50px 0 20px
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+h1,
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    ;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+}
+
+.coder {}
+
+.profilepic {
+    border-radius: 70px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+.gif {
+    width: 25%;
+    height: 25%;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+hr {
+    border: dotted;
+    color: gray 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: centred 100px auto;
+}
+
+.contactms {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Open Sans', sans-serif;
+    color: #0d0a0d;
+    font-size: 20px;
+    background: #eb3838;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #ee7171;
+    text-decoration: none;
+}
+
+a {
+    color: #c03b3b;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(224, 69, 95);
+}
+
+.copyright {
+    color: gray;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.pictures {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+}
